@@ -1,0 +1,13 @@
+{
+  "name": "vaultx-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy for VaultX",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest"
+  }
+}
